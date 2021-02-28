@@ -1,0 +1,11 @@
+# Files
+.curseclient
+options.txt
+realms_persistence.json
+
+# Folders
+.mixin.out/
+logs/
+mods/
+resourcepacks/
+saves/
