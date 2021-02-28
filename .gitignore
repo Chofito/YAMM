@@ -2,6 +2,11 @@
 .curseclient
 options.txt
 realms_persistence.json
+optionsof.txt
+patchouli_data.json
+usercache.json
+usernamecache.json
+imm_ptl_state.json
 
 # Folders
 .mixin.out/
@@ -9,3 +14,6 @@ logs/
 mods/
 resourcepacks/
 saves/
+XaeroWaypoints/
+XaeroWaypoints_*/
+XaeroWorldMap/
