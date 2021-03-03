@@ -250,7 +250,7 @@
 
 [ExtendNetherite]
 	#Additional time (in seconds) given to netherite and netherite-based items before they despawn.
-	"Extra lifetime" = 300
+	"Extra lifetime" = 600
 
 [ExtraRecipes]
 	#If true, adds a recipe for Gilded Blackstone using gold nuggets and blackstone.

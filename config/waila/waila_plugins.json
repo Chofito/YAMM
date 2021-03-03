@@ -43,5 +43,8 @@
     "show_entity_hp": true,
     "show_states": false,
     "show_entities": true
+  },
+  "fruittrees": {
+    "bee": true
   }
 }

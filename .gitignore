@@ -10,6 +10,7 @@ imm_ptl_state.json
 
 # Folders
 .mixin.out/
+crash-reports/
 logs/
 mods/
 resourcepacks/

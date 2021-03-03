@@ -61,9 +61,9 @@ arrowScale:1.5
 arrowColour:0
 smoothDots:true
 playerIcons:1
-mobIcons:1
-hostileIcons:1
-tamedIcons:3
+mobIcons:2
+hostileIcons:2
+tamedIcons:2
 heightLimit:20
 worldMap:true
 terrainDepth:true
@@ -76,12 +76,12 @@ hideWorldNames:1
 openSlimeSettings:true
 alwaysShowDistance:false
 playerNames:0
-otherTeamsNames:3
+otherTeamsNames:0
 friendlyMobNames:0
 hostileMobNames:0
 itemNames:0
 otherNames:0
-tamedMobNames:3
+tamedMobNames:0
 showLightLevel:0
 renderLayerIndex:1
 crossDimensionalTp:true
@@ -110,7 +110,7 @@ lightOverlayColor:13
 uiScale:0
 bossHealthPushBox:1
 potionEffectPushBox:1
-interface:dummy:0:0:true:false:false:false
+interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false

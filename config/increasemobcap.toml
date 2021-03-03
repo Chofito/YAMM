@@ -1,0 +1,14 @@
+
+#Mob Caps
+[mobcaps]
+	#Mob cap for monsters
+	monster = 70
+	#Mob cap for creatures
+	creature = 10
+	#Mob cap for ambient
+	ambient = 15
+	#Mob cap for water creatures
+	water_creature = 5
+	#Mob cap for ambient water creatures
+	water_ambient = 20
+

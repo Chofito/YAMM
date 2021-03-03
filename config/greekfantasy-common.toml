@@ -72,6 +72,7 @@
 	nerf_stunning = false
 	#When true, replaces paralysis with Slowness II and Weakness II
 	nerf_paralysis = false
+	enable_raising_enchantment = true
 
 [potions]
 	#Whether the Potion of Mirroring can prevent paralysis
@@ -137,7 +138,7 @@
 	medusa_boss_bar = true
 	#Whether to show the Circe boss bar
 	circe_boss_bar = true
-	#Whether to show the Cretan boss bar
+	#Whether to show the Cretan Minotaur boss bar
 	cretan_boss_bar = false
 	#Percent chance that opening a mysterious box spawns an Elpis
 	#Range: 0 ~ 100
@@ -297,6 +298,12 @@
 		chance = 6
 		whitelist = true
 		biome_types = ["OCEAN"]
+
+	[mob_spawns.pegasus_spawn]
+		#Range: 0 ~ 1000
+		chance = 11
+		whitelist = true
+		biome_types = ["MOUNTAIN"]
 
 [features]
 	#Range: 0 ~ 1000

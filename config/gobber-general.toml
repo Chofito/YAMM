@@ -71,10 +71,10 @@
 	gobberLuckyBlockGeneration = true
 	#Size of Gobber Lucky Block pockets [0-100, default: 3]
 	#Range: 0 ~ 100
-	gobberLuckyBlockSize = 3
+	gobberLuckyBlockSize = 4
 	#Chances of Gobber Lucky Block pocket being generated [0-100, default: 20]
 	#Range: 0 ~ 100
-	gobberLuckyBlockChance = 20
+	gobberLuckyBlockChance = 15
 	#Maximal height for Gobber Lucky Block pocket generation [0-255, default: 255]
 	#Range: 0 ~ 255
 	gobberLuckyBlockMaxHeight = 255
@@ -85,10 +85,10 @@
 	gobberOreGeneration = true
 	#Size of Gobber Ore pockets [0-100, default: 4]
 	#Range: 0 ~ 100
-	gobberOreSize = 4
+	gobberOreSize = 5
 	#Chances of Gobber Ore pocket being generated [0-100, default: 15]
 	#Range: 0 ~ 100
-	gobberOreChance = 15
+	gobberOreChance = 8
 	#Maximal height for Gobber Ore pocket generation [0-255, default: 30]
 	#Range: 0 ~ 255
 	gobberOreMaxHeight = 30
@@ -99,10 +99,10 @@
 	gobberOreNetherGeneration = true
 	#Size of Gobber Nether Ore pockets [0-100, default: 3]
 	#Range: 0 ~ 100
-	gobberOreNetherSize = 3
+	gobberOreNetherSize = 4
 	#Chances of Gobber Nether Ore pocket being generated [0-100, default: 80]
 	#Range: 0 ~ 100
-	gobberOreNetherChance = 80
+	gobberOreNetherChance = 60
 	#Maximal height for Gobber Nether Ore pocket generation [0-255, default: 255]
 	#Range: 0 ~ 255
 	gobberOreNetherMaxHeight = 255
@@ -255,5 +255,5 @@
 #Dragon Egg With Every Kill
 [dragon_egg_kill]
 	#Enable Dragon Egg drops on every kill [true / false]
-	enableDragonEggEveryKill = false
+	enableDragonEggEveryKill = true
 

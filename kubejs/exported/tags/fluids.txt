@@ -1,0 +1,78 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 28, 2021 4:28:37 PM
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- gaiadimension:mineral_water_still
+- gaiadimension:mineral_water_flow
+- gaiadimension:sweet_muck_still
+- gaiadimension:sweet_muck_flow
+- gaiadimension:liquid_aura_still
+- gaiadimension:liquid_aura_flow
+- theabyss:abyssdimwater
+- theabyss:abyssdimwater_flowing
+- theabyss:backtolive
+- theabyss:backtolive_flowing
+- undergarden:virulent_mix_source
+- undergarden:virulent_mix_flowing
+- the_bumblezone:sugar_water_still
+- the_bumblezone:sugar_water_flowing
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- betterportals:portal_fluid_still
+- betterportals:portal_fluid_flowing
+
+#forge:biodiesel
+- immersiveengineering:biodiesel
+
+#forge:milk
+- create:flowing_milk
+- create:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:herbicide
+- immersiveengineering:herbicide
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#forge:plantoil
+- immersiveengineering:plantoil
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- gaiadimension:superhot_magma_still
+- gaiadimension:superhot_magma_flow
+- gaiadimension:liquid_bismuth_still
+- gaiadimension:liquid_bismuth_flow
+- theabyss:dragonfluid
+- theabyss:dragonfluid_flowing
+
+#forge:ethanol
+- immersiveengineering:ethanol
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#forge:honey
+- create:flowing_honey
+- create:honey
+
+#forge:creosote
+- immersiveengineering:creosote
+
+#forge:concrete
+- immersiveengineering:concrete
+
+#forge:potion
+- immersiveengineering:potion
