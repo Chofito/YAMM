@@ -259,6 +259,20 @@
 				#Range: -2.147483648E9 ~ 2.147483647E9
 				min_damage_amount = 3.0
 
+			[general.relics.stats.blazing_flask]
+				#Range: 0.0 ~ 2.147483647E9
+				levitation_height = 5.0
+				#Range: 0.0 ~ 2.147483647E9
+				levitation_speed_multiplier = 0.75
+				#Range: > 0
+				ignite_duration = 5
+				#Range: > 0
+				fire_consumption_cooldown = 1
+				#Range: > 0
+				fire_consumption_radius = 10
+				#Range: > 0
+				fire_capacity = 100
+
 		[general.relics.worldgen]
 			relics_worldgen_enabled = true
 			#Range: 0.0 ~ 1.0
@@ -309,6 +323,8 @@
 			spatial_sign_gen_chance = 0.25
 			#Range: 0.0 ~ 1.0
 			stellar_catalyst_gen_chance = 0.05
+			#Range: 0.0 ~ 1.0
+			blazing_flask_gen_chance = 0.05
 
 		[general.relics.compatibility]
 			warn_about_old_forge = true
